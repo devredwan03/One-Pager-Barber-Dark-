@@ -1,0 +1,32 @@
+.slide-content h1 span,
+.theme-heading span,
+.pricing:hover figure figcaption h3,
+.facts h1,
+.blog .caption a,
+.contact-icon,
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover, .nav .open > a:focus, .nav .open > a:hover, .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover, ul.nav.navbar-nav li a:hover,
+body.dark .itg-button{
+	color:#d9842f;
+}
+.itg-button:hover, 
+.itg-button.active,
+.pricing:hover .itg-button,
+.blog-date,
+.social-icon a:hover,
+#testimonial-slider.owl-theme .owl-dots .owl-dot span,
+.cssload-loading i{
+	background-color:#d9842f;
+}
+.slide-content,
+.theme-heading span:after,
+.about-us figure,
+.itg-button:hover, 
+.itg-button.active,
+.pricing:hover .itg-button,
+.contact-icon,
+body.dark .itg-button {
+	border-color:#d9842f;
+}
+body.dark #gallery-slider.owl-theme .owl-dots .owl-dot.active:before{
+	background-color:rgba(217, 132, 47,0.5);
+}
